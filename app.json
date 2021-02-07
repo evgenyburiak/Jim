@@ -1,0 +1,26 @@
+{
+  "id": "45357227-c747-4f5e-a276-37905745e6a5",
+  "name": "Jim09",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Jim09.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
