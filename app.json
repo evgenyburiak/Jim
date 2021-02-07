@@ -1,7 +1,7 @@
 {
   "id": "45357227-c747-4f5e-a276-37905745e6a5",
   "name": "Jim09",
-  "publisher": "Default publisher",
+  "publisher": "Evgeny 12",
   "version": "1.0.0.0",
   "brief": "",
   "description": "",
@@ -17,7 +17,7 @@
   "idRanges": [
     {
       "from": 50100,
-      "to": 50149
+      "to": 80000
     }
   ],
   "contextSensitiveHelpUrl": "https://Jim09.com/help/",
